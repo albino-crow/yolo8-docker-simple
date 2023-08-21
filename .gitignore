@@ -1,8 +1,9 @@
 # Ignore VS Code 
-./task/.vscode/
+.vscode/
 
 # Ignore pycharm
-./python\ request/.idea/
-./python\ request/lib/
-./python\ request/script/
-./python\ request/*.cfg
+.idea/
+scripts/
+*.cfg
+
+
