@@ -1,4 +1,6 @@
 # Ignore VS Code 
+bfg.jar
+
 .vscode/
 
 # Ignore pycharm
