@@ -1,6 +1,5 @@
 import requests
 import cv2
-import numpy as np
 
 
 url = "http://localhost:2000/yolo8/"

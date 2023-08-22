@@ -34,8 +34,13 @@ Note: Ensure you have an active internet connection to install required dependen
 cd Client
 ```
 
+5. 
+To install the required files necessary for your project, simply execute the following command
+```bash
+pip install -r requirements.txt
+```
 
-5. Run the client-side application:
+6. Run the client-side application:
 ```bash
 python main.py
 ```
