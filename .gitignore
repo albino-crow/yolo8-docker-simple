@@ -1,6 +1,11 @@
-# Ignore VS Code 
+
 bfg.jar
 /..bfg-report/
+..bfg-report/
+..bfg-report/*
+=======
+
+# Ignore VS Code 
 .vscode/
 
 # Ignore pycharm
