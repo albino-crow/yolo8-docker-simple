@@ -7,3 +7,4 @@ certifi~=2023.7.22
 idna~=3.4
 urllib3~=2.0.4
 requests~=2.31.0
+PIL ~= 10.0.0

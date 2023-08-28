@@ -3,6 +3,7 @@
 torch==2.0.0+cpu
 torchvision==0.15.1+cpu
 
+opencv-python==4.8.0.76
 
 fastapi[all]==0.89.0
 uvicorn[standard]==0.20.0
