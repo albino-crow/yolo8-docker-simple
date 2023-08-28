@@ -16,8 +16,7 @@ ENV PYTHONUNBUFFERED=1
 # Install pip requirements
 RUN pip install --upgrade pip 
 
-COPY requirements2.txt .
-RUN  python -m pip install -r requirements2.txt
+
 
 
 COPY requirements.txt .

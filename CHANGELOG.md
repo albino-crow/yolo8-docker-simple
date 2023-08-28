@@ -1,4 +1,21 @@
 # Changelog
+
+
+## [1.0.4] - 2023-8-28
+
+
+
+### removed
+
+- requirements2.txt for serve
+
+### Changed
+
+- requirements.txt for serve
+
+
+-------------------------------------------------------------------------
+
 ## [1.0.3] - 2023-8-27
 
 

@@ -1,4 +1,8 @@
 # To ensure app dependencies are ported from your virtual environment/host machine into your container, run 'pip freeze > requirements.txt' in the terminal to overwrite this file
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.0.0+cpu
+torchvision==0.15.1+cpu
+
 
 fastapi[all]==0.89.0
 uvicorn[standard]==0.20.0
