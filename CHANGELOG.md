@@ -1,6 +1,22 @@
 # Changelog
 
 
+## [1.0.5] - 2023-8-28
+
+
+
+### add
+
+- precnfig.py added to server to download yolo weights
+
+### Changed
+
+- server post methode change that will get base64 encode image
+- client's body request would contain encoded image
+
+
+-------------------------------------------------------------------------
+
 ## [1.0.4] - 2023-8-28
 
 
